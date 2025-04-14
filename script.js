@@ -200,7 +200,7 @@ const categories = {
       {
         "question": "A statistics department is contacting alumni by telephone asking for donations to help fund a new computer laboratory. Past history shows that 80% of the alumni contacted in this manner will make a contribution of at least P 50.000. A random sample of 20 alumni is selected. What is the probability that more than 15 alumni will make a contribution of at least p50.00?",
         "choices": ["0.6296", "0.3014", "0.582", "0.4214"],
-        "answer": "0.582"
+        "answer": "0.6296"
       },
       {
         "question": "From past experience, it is known that 90% of one-year-old children can distinguish their mother's voice from the voice of a similar sounding female. A random sample of 20 one year-old children are given this voice recognition test. Find the standard deviation that all 20 children recognize their mother’s voice.",
@@ -795,7 +795,7 @@ const categories = {
     {
         "question": "Find the dimension of the largest rectangle that can be inscribed in the right triangle with sides lying along the hypotenuse of triangle with legs 60m and 80m",
         "choices": ["20m x 70m", "24m x 50m", "30m ×40m", "35m x 50m"],
-        "answer": "35m x 50m"
+        "answer": "24m x 50m"
     },
     {
         "question": "The towers of a parabolic suspension bridge 300 m long are 60 m high and the lowest point of the cable is 20 m above the roadway. Find the vertical distance from the roadway to the cable at 100 m from the center.",
