@@ -183,7 +183,7 @@ const categories = {
         "answer": "55/64"
       },
       {
-        "question": "Find the probability that all 20 children recognize their mother’s voice, given a 90% recognition rate.",
+        "question": "From past experience, it is known 90% of one year old children can distinguish their mother voice from the voice similar sounding female. A random sample of 20 one year old children are given this voice recognition test. Let the random variable x denote the number of children who do not recognize their mother’s voice. Find the probability that all 20 children recognize their mother’s voice.",
         "choices": ["0.345", "0.122", "0.4", "0.222"],
         "answer": "0.122"
       },
