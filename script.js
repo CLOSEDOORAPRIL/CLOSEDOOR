@@ -661,6 +661,131 @@ const categories = {
         "question": "Michael’s favorite cake recipe calls for 0.75 lbs of flour; he has a 5 lbs bag. He wants to make several cakes for the school bake sale. How many cakes can he make?",
         "choices": ["6", "8", "5", "7"],
         "answer": "6"
+    },
+    {
+        "question": "Find the radius of curvature of the parabola y^2 = 4x at point P(4,4)?",
+        "choices": ["22.36", "20.36", "27.36", "25.36"],
+        "answer": "22.36"
+    },
+    {
+        "question": "A ball bounces ⅔ of the altitude from which it falls. If it is dropped from a height of 18ft, what distance has it travelled until the 5th time it hit the ground?",
+        "choices": ["75.78ft", "116.67ft", "79.33ft", "66.67ft"],
+        "answer": "75.78ft"
+    },
+    {
+        "question": "From the past experience, it is known 90% of one year old children can distinguish their mother voice of a similar sounding female. A random sample of 20 one year olds are given this voice recognition test. Let the random variable x denote the number of children who do not recognize their mother’s voice. Find the mean of x.",
+        "choices": ["1", "20", "2", "5"],
+        "answer": "2"
+    },
+    {
+        "question": "A cylindrical container open at the top with minimum surface area at a given volume. What is the relationship of its radius to height?",
+        "choices": ["radius = 3 height", "radius = 2 height", "radius = height", "radius = height / 2"],
+        "answer": "radius = height"
+    },
+    {
+        "question": "What is the value of x in arctan(2x) + arctan(x) = pi/4?",
+        "choices": ["1.78", "-0.28 and 1.78", "0.28 and -1.78", "0.28"],
+        "answer": "0.28"
+    },
+    {
+        "question": "Find the minimum distance from the point P(4,2) to the parabola y^2 = 8x",
+        "choices": ["3 sqrt. Of 2", "2 sqrt. Of 3", "3 sqrt. Of 3", "2 sqrt. Of 2"],
+        "answer": "2 sqrt. Of 2"
+    },
+    {
+        "question": "A statistics department is contacting alumni by telephone asking for donations to help fund a new computer laboratory. Past history shows that 80% of the alumni contacted in this manner will make a contribution of at least p50.00. A random sample of 20 alumni is selected. What is the probability that more than 15 alumni will make a contribution of at least p50.00?",
+        "choices": ["0.6296", "0.3014", "0.582", "0.4214"],
+        "answer": "0.6296"
+    },
+    {
+        "question": "Liza thought she had the exact money to buy 10 chocolate bars. However, the price per bar had increased by 50 centavos. Consequently, she was able to buy only 8 bars and had p2 left. How much money did Liza have?",
+        "choices": ["80", "40", "60", "30"],
+        "answer": "30"
+    },
+    {
+        "question": "What percentage of the volume of a cone is the maximum volume right cylindrical that can be inscribed in?",
+        "choices": ["54%", "44%", "34%", "24%"],
+        "answer": "44%"
+    },
+    {
+        "question": "The area in the second quadrant of the circle x^2 + y^2 = 36 is revolved about the line y + 10 = 0. What is the volume generated?",
+        "choices": ["2228.3", "2233.48", "2208.53", "2218.33"],
+        "answer": "2228.3"
+    },
+    {
+        "question": "The locus of a point which moves so that its distance from a fixed point and a fixed line is always equal is",
+        "choices": ["circle", "hyperbola", "ellipse", "parabola"],
+        "answer": "parabola"
+    },
+    {
+        "question": "Solve (x+y) dy = (x-y)dx",
+        "choices": ["x^2 - 2xy + y^2 = C", "x^2 - 2xy - y^2 = C", "x^2 + y^2 = C", "x^2 + 2xy + y^2 = C"],
+        "answer": "x^2 - 2xy - y^2 = C"
+    },
+    {
+        "question": "A cylindrical can is to have volume 1000 cubic centimeters. Determine the height which will minimize the amount of material to be used.",
+        "choices": ["12.84cm", "11.84cm", "10.64cm", "10.84cm"],
+        "answer": "10.84cm"
+    },
+    {
+        "question": "Evaluate the integral of square root of (1-cos x)dx",
+        "choices": ["-2 square root of 2 cos x + C", "2 square root of 2 cos x + C", "2 square root of 2 cos x/2 + C", "-2 square root of 2 cos x/2 + C"],
+        "answer": "-2 square root of 2 cos x/2 + C"
+    },
+    {
+        "question": "If the coefficient a0 of a fourier series of a periodic function of zero, it means that the function has",
+        "choices": ["odd symmetry or even quarter wave symmetry or odd-quarter wave symmetry", "Odd-quarter wave symmetry", "Even quarter wave symmetry", "Odd symmetry"],
+        "answer": "odd symmetry or even quarter wave symmetry or odd-quarter wave symmetry"
+    },
+    {
+        "question": "Two engineers facing each other with a distance of 5km from each other, the angles of elevation of the balloon from the two engineers are 56 deg. And 58 deg., respectively. What is the distance of the balloons?",
+        "choices": ["4.64km, 4.44km", "4.64km, 4.54km", "4.54km, 4.44km", "4.44km, 4.74km"],
+        "answer": "4.64km, 4.54km"
+    },
+    {
+        "question": "If the side of a square can be expressed as a^2bcube, what is the area of the square in simplified form?",
+        "choices": ["a^2b to the 6th power", "a^4b to the 6th power", "a^4b to the 5th power", "a^2b to the 5th power"],
+        "answer": "a^4b to the 6th power"
+    },
+    {
+        "question": "Determine the correct equation for the line with a slope of 7 and y intercept of -4",
+        "choices": ["y= -1/7x-4", "y=7x-4", "y=7x+4", "y=-7x+4"],
+        "answer": "y=7x-4"
+    },
+    {
+        "question": "Find the maximum value of 3^sin3x",
+        "choices": ["⅓", "s", "1", "3"],
+        "answer": "3"
+    },
+    {
+        "question": "Hotels, like airlines, often overbook, counting on the fact that some people with reservations will cancel at the last minute. A certain hotel chain finds 20% of the reservation will not be used. If four reservations are made, what is the chance fewer than two will cancel?",
+        "choices": ["0.3825", "0.7241", "0.5211", "0.8192"],
+        "answer": "0.8192"
+    },
+    {
+        "question": "After the price of gasoline went up by 10%, a consumer reduced his consumption by the same percent. By what percent would his gasoline bill be changed?",
+        "choices": ["1%", "10%", "11%", "0.1%"],
+        "answer": "1%"
+    },
+    {
+        "question": "The length of the latus rectum of the parabola y^2 = 4px is:",
+        "choices": ["p", "2p", "4p", "-4p"],
+        "answer": "4p"
+    },
+    {
+        "question": "Find the weight of the heaviest right circular cylinder that can be cut from a 100 kg solid iron shot",
+        "choices": ["50 kg", "86.6 kg", "75 kg", "57.7 kg"],
+        "answer": "57.7 kg"
+    },
+    {
+        "question": "Find the distance of the centroid of an ellipse with equation (x/a)^2 +(y/b)^2 = 1 with respect to the major axis.",
+        "choices": ["2b/π", "4b/3π", "4a/3π", "0"],
+        "answer": "0"
+    },
+    {
+        "question": "A canoe can travel 3 times as fast downstream than it can upstream. If the current of the stream is 5 mph. If the time to make the roundtrip is 4 hours, find the total distance travelled by the canoe?",
+        "choices": ["30 miles", "15 miles", "40 miles", "60 miles"],
+        "answer": "30 miles"
     }
 
 
