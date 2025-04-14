@@ -786,6 +786,131 @@ const categories = {
         "question": "A canoe can travel 3 times as fast downstream than it can upstream. If the current of the stream is 5 mph. If the time to make the roundtrip is 4 hours, find the total distance travelled by the canoe?",
         "choices": ["30 miles", "15 miles", "40 miles", "60 miles"],
         "answer": "30 miles"
+    },
+    {
+        "question": "A company hired 30 new employees today. It increases their workforce by 5%. How many new workers now?",
+        "choices": ["610", "600", "630", "620"],
+        "answer": "630"
+    },
+    {
+        "question": "Find the dimension of the largest rectangle that can be inscribed in the right triangle with sides lying along the hypotenuse of triangle with legs 60m and 80m",
+        "choices": ["20m x 70m", "24m x 50m", "30m ×40m", "35m x 50m"],
+        "answer": "35m x 50m"
+    },
+    {
+        "question": "The towers of a parabolic suspension bridge 300 m long are 60 m high and the lowest point of the cable is 20 m above the roadway. Find the vertical distance from the roadway to the cable at 100 m from the center.",
+        "choices": ["17.78 m", "37.78 m", "12.86 m", "32.86 m"],
+        "answer": "37.78 m"
+    },
+    {
+        "question": "What is the eccentricity, e of a conic section with discriminant B² - 4AC = 0?",
+        "choices": ["e=0", "e<1", "e>1", "e=1"],
+        "answer": "e=1"
+    },
+    {
+        "question": "Find the general solution of (D² + 4)y = 0",
+        "choices": ["y=C1e2x+C2e-2x", "y=C1e2x+C2xe-2x", "y=C1 sin2x + C2cos2x", "y=C1e2xsin2x +C2e-2xcos2x"],
+        "answer": "y=C1 sin2x + C2cos2x"
+    },
+    {
+        "question": "Write the equation of a line with x-intercept, a = 8 and y-intercept, b = -1.",
+        "choices": ["×-8y-8=0", "8x+y-8=0", "8x-y+8=0", "8x+y+8=0"],
+        "answer": "×-8y-8=0"
+    },
+    {
+        "question": "Find the initial point of v=-3i +j+ 2k if the terminal point is (5, 0, -1)",
+        "choices": ["(8,1,-3)", "(8,-1,3)", "(8,-1,-3)", "(8,1,3)"],
+        "answer": "(8,-1,-3)"
+    },
+    {
+        "question": "A steel ball at 120°C cools in 20 minutes to 80°C in a room at 25°C. Find the temperature of the ball after half an hour.",
+        "choices": ["40.96 deg C", "45.06 deg C", "66.85 deg C", "55.96 deg C"],
+        "answer": "66.85 deg C"
+    },
+    {
+        "question": "Find the area above xy-plane of that portion of the surface of sphere x² + y² + z² = a² intercepted by the cylinder x² + y² - ax = 0",
+        "choices": ["a^2", "(π-2)a", "(π-2)a^2", "√a"],
+        "answer": "(π-2)a^2"
+    },
+    {
+        "question": "Find the vertex of the parabola x=8y",
+        "choices": ["(2,4)", "(0,8)", "(0,0)", "(-2,0)"],
+        "answer": "(0,0)"
+    },
+    {
+        "question": "A bus leaves Manila at 12 NN for Baguio 250 km away, traveling an average of 55 kph. At the same time, another bus leaves Baguio for Manila traveling 65 kph. At what distance from Manila will they meet?",
+        "choices": ["135.42 km", "114.58 km", "129.24 km", "120.76 km"],
+        "answer": "114.58 km"
+    },
+    {
+        "question": "What is the equation of the line that passes through (3, 5) and is parallel to the line 4x - 2y + 2 = 0?",
+        "choices": ["4x-2y+12=0", "2x+y+10=0", "4x+2y-11=0", "2x-y+11=0"],
+        "answer": "2x-y+11=0"
+    },
+    {
+        "question": "Find the area enclosed by a Lemniscate of Bernoulli's equation r² = a² cos(2θ)",
+        "choices": ["a²/3", "a²/2", "a²", "a²/4"],
+        "answer": "a²"
+    },
+    {
+        "question": "Find the positive number x that exceeds its square by the largest amount.",
+        "choices": ["1/3", "1", "2", "1/2"],
+        "answer": "1/2"
+    },
+    {
+        "question": "What section is formed by a cone cut by a plane perpendicular to its axis?",
+        "choices": ["Circle", "Parabola", "Ellipse", "Hyperbola"],
+        "answer": "Circle"
+    },
+    {
+        "question": "Find a - b if |a| = 26 and |b| = 17 and the angle between them is π/3.",
+        "choices": ["212", "383", "221", "338"],
+        "answer": "221"
+    },
+    {
+        "question": "A horizontal line has a slope of",
+        "choices": ["Negative", "Infinity", "Positive", "Zero"],
+        "answer": "Zero"
+    },
+    {
+        "question": "Find the limit of z² / (z⁴ + z + 3) as z approaches e^(πi/2)",
+        "choices": ["3/16", "(-4+i)/17", "(8i-76)/365", "(5i+6)/287"],
+        "answer": "(-4+i)/17"
+    },
+    {
+        "question": "Find the angle between adjacent faces of a regular octahedron",
+        "choices": ["45.5", "109.47", "35.34", "105"],
+        "answer": "109.47"
+    },
+    {
+        "question": "Two engineers facing each other with a distance of 5 km from each other, the angles of elevation of the balloon from the two engineers are 56° and 58°, respectively. What is the distance of the balloon from the two engineers?",
+        "choices": ["4.46 km, 4.54 km", "4.64 km, 4.54 km", "4.64 km, 4.45 km", "4.46 km, 4.45 km"],
+        "answer": "4.64 km, 4.54 km"
+    },
+    {
+        "question": "If z1 = 1 - i, z2 = -2 + 4i, z3 = √3 - 2i, evaluate Re{2z1³ + 3z2² - 5z3³}.",
+        "choices": ["35", "35i", "-35", "-35i"],
+        "answer": "-35"
+    },
+    {
+        "question": "A sinking ship makes a distress signal seen by three observers all 20 m inland from the shore. First observer is perpendicular to the ship, the second observer 100 m to the right of the first, and the third observer is 125 m to the right of the first. How far is the ship from the shore?",
+        "choices": ["60 m", "80 m", "100 m", "136.2 m"],
+        "answer": "80 m"
+    },
+    {
+        "question": "On a day when the temperature is 30°C, a cool drink is taken from a refrigerator at 5°C. If the temperature of the drink is 20°C after 10 minutes, what will its temperature be after 20 minutes?",
+        "choices": ["21 deg C", "24 deg C", "28 deg C", "26 deg C"],
+        "answer": "26 deg C"
+    },
+    {
+        "question": "A project can be completed in as many days as there are men in the group. If 4 men were absent, the project will be delayed by 5 days. How many days can they initially finish the project?",
+        "choices": ["10", "15", "20", "25"],
+        "answer": "20"
+    },
+    {
+        "question": "The volume of a cube becomes three times when its edge is increased by 1 inch. What is the edge of the cube?",
+        "choices": ["2.62", "3.62", "3.26", "2.26"],
+        "answer": "2.26"
     }
 
 
