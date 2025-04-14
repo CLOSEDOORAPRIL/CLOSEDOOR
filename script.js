@@ -203,7 +203,7 @@ const categories = {
         "answer": "0.582"
       },
       {
-        "question": "Find the standard deviation that all 20 children recognize their mother’s voice, given 90% recognition rate.",
+        "question": "From past experience, it is known that 90% of one-year-old children can distinguish their mother's voice from the voice of a similar sounding female. A random sample of 20 one year-old children are given this voice recognition test. Find the standard deviation that all 20 children recognize their mother’s voice.",
         "choices": ["0.122", "1.222", "1.34", "1.43"],
         "answer": "1.34"
       },
