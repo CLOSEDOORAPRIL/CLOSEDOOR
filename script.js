@@ -911,6 +911,131 @@ const categories = {
         "question": "The volume of a cube becomes three times when its edge is increased by 1 inch. What is the edge of the cube?",
         "choices": ["2.62", "3.62", "3.26", "2.26"],
         "answer": "2.26"
+    },
+    {
+        "question": "A family's electricity bill averages $80 a month for seven months of the year and $20 a month for the rest of the year. If the family's bill were averaged over the entire year, what would the monthly bill be?",
+        "choices": ["$45", "$50", "$55", "$60"],
+        "answer": "$55"
+    },
+    {
+        "question": "Regular quadrilateral is inscribed in a circle and a regular triangle is circumscribed about it; the difference between these sides of the polygons is equal to 10 cm. Determine the area of the circle.",
+        "choices": ["74.76", "75.41", "57.41", "74.15"],
+        "answer": "74.76"
+    },
+    {
+        "question": "What is the general solution of (D.4-1)y(t)= 0?",
+        "choices": ["y= c1e^t+c2 e^-t+ c3 cost+ c4 sint", "y=c1e^t+c2 e^-t+ c3 te^t+ c4 te^-t", "y=c1e^t+c2 e^-t", "y=c1 e^t+c2 te^-t"],
+        "answer": "y= c1e^t+c2 e^-t+ c3 cost+ c4 sint"
+    },
+    {
+        "question": "The ceiling in a hallway 10 m wide is in the shape of a semi-ellipse and is 9 m high in the center and 6 m high at the side walls. Find the height of the ceiling 2 m from either wall.",
+        "choices": ["117m", "8.4 m", "6.4 m", "17.5 m"],
+        "answer": "8.4 m"
+    },
+    {
+        "question": "Find the area bounded by the parabolas x²-2y = 0 and x² + 2y-8=0.",
+        "choices": ["32/3", "20/3", "16/3", "64/3"],
+        "answer": "32/3"
+    },
+    {
+        "question": "What is the area of the largest rectangle that can be inscribed in an ellipse with equation 4x^2 + y^2=4?",
+        "choices": ["3", "4", "2", "1"],
+        "answer": "4"
+    },
+    {
+        "question": "A long piece of galvanized iron 60 cm wide is to be made into a trough by bending up two sides. Find the width of the base if the carrying capacity is maximum.",
+        "choices": ["20", "30", "40", "50"],
+        "answer": "20"
+    },
+    {
+        "question": "The probability of John's winning whenever he plays a certain game is 1/3. If he plays 4 times, find the probability that he wins just twice.",
+        "choices": ["0.2963", "0.2936", "0.2693", "0.2639"],
+        "answer": "0.2963"
+    },
+    {
+        "question": "From past experience, it is known that 90 percent of one year old children can distinguish their mother's voice of a similar sounding female. A random sample of one year's old are given this voice recognize test. Find the standard deviation that all 20 children recognize their mother's voice.",
+        "choices": ["1.34", "0.88", "0.12", "1.43"],
+        "answer": "1.34"
+    },
+    {
+        "question": "A water tank is shaped in such a way that the volume of water in the tank is V =2y^3/2 cu. in. When its depth is y inches. If water flows out through a hole at the bottom of the tank at the rate of 3(sqrt. of y) cu.in/min. At what rate does the water level in the tank fall?",
+        "choices": ["11 in/min", "0.11 in/min", "1 in/min", "1/11 in/min"],
+        "answer": "1 in/min"
+    },
+    {
+        "question": "The equation x^3 + y^3- 3axy = 0 represents a curve called",
+        "choices": ["strophoid", "cardioid", "lemniscate", "Folium of Descartes"],
+        "answer": "Folium of Descartes"
+    },
+    {
+        "question": "A rubber ball is dropped from a height of 15 meters. On each rebound, it rises 2/3 of the height from which it last fell. Find the distance travelled by the ball before it comes to rest.",
+        "choices": ["60 m", "85 m", "90 m", "75 m"],
+        "answer": "75 m"
+    },
+    {
+        "question": "The other name for general triangles is",
+        "choices": ["isosceles triangles", "equilateral triangles", "scalene triangles", "right triangles"],
+        "answer": "scalene triangles"
+    },
+    {
+        "question": "If f(x)= 10^x + 1, then f(x +1)-f(x) is equal to",
+        "choices": ["10(10^x)", "9(10^x)", "9(10^x+1)", "1"],
+        "answer": "9(10^x)"
+    },
+    {
+        "question": "The sum of the digits of a 2-digit number is 10. If the number is divided by the unit's digit, the quotient is 3 remainder is 4. Find the number.",
+        "choices": ["37", "28", "46", "19"],
+        "answer": "28"
+    },
+    {
+        "question": "A statue 3 m high is standing on a base of 4 m high. If an observer's eye is 1.5 m above the ground, how far should he stand for the base in order that the angle subtended by the statue is a maximum?",
+        "choices": ["3.71 m", "3.41 m", "3.51 m", "4.41 m"],
+        "answer": "3.71 m"
+    },
+    {
+        "question": "A point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing is known as",
+        "choices": ["Inflection point", "Maximum point", "Minimal point", "Point of tangency"],
+        "answer": "Inflection point"
+    },
+    {
+        "question": "If the coefficient a₀ of a Fourier series of a periodic function is zero, it means that the function has",
+        "choices": ["odd-quarter wave symmetry", "even-quarter wave symmetry", "odd symmetry", "odd symmetry or even-quarter wave symmetry or odd-quarter wave symmetry"],
+        "answer": "odd symmetry or even-quarter wave symmetry or odd-quarter wave symmetry"
+    },
+    {
+        "question": "A Cylindrical tank 4 ft across the top and 6 ft deep is to be coated by asbestos which is 1 inch thick, find the approximate volume of the asbestos needed in cu. ft.",
+        "choices": ["4.8", "8.4", "5.4", "6.4"],
+        "answer": "8.4"
+    },
+    {
+        "question": "Find the domain of the function: f(x)=3x, -6 ≤ x ≤ 8.",
+        "choices": ["(-6,8)", "(-18,24)", "[-18,24]", "[-6, 8]"],
+        "answer": "[-6, 8]"
+    },
+    {
+        "question": "Identify the curve described by |z = 3i| - |z + 3i| = 4",
+        "choices": ["ellipse", "line", "circle", "hyperbola"],
+        "answer": "hyperbola"
+    },
+    {
+        "question": "Find the minimum distance from the point (4, 2) to the parabola y^2 = 8x.",
+        "choices": ["4√3", "√3", "2√2", "2√3"],
+        "answer": "2√2"
+    },
+    {
+        "question": "Find the volume of the solid common between intersecting cylinders with radius of 3 ft.",
+        "choices": ["72", "288", "144", "256"],
+        "answer": "144"
+    },
+    {
+        "question": "Find the relative error in the computed volume of a cube due to an error of 2% in measuring the edge of the cube.",
+        "choices": ["0.05", "0.04", "0.06", "0.07"],
+        "answer": "0.06"
+    },
+    {
+        "question": "What type of curve is generated by a point that moves in uniform circular motion about an axis, while traveling with a constant speed parallel to the axis?",
+        "choices": ["A cycloid", "A hypocycloid", "An epicycloid", "A Helix"],
+        "answer": "A Helix"
     }
 
 
