@@ -198,7 +198,7 @@ const categories = {
         "answer": "15 days"
       },
       {
-        "question": "What is the probability that more than 15 alumni out of 20 make a contribution, given 80% chance each?",
+        "question": "A statistics department is contacting alumni by telephone asking for donations to help fund a new computer laboratory. Past history shows that 80% of the alumni contacted in this manner will make a contribution of at least P 50.000. A random sample of 20 alumni is selected. What is the probability that more than 15 alumni will make a contribution of at least p50.00?",
         "choices": ["0.6296", "0.3014", "0.582", "0.4214"],
         "answer": "0.582"
       },
