@@ -193,7 +193,7 @@ const categories = {
         "answer": "355.3"
       },
       {
-        "question": "An epidemic spreads at a rate jointly proportional to the number of infected and uninfected people. Starting with 160 out of 5000 infected, 1200 after a week, how many days until 80% infected?",
+        "question": "An epidemic spread at a rate jointly proportional to the number of infected people and the number of uninfected people. In an isolated town of 5000 inhabitants, 160 people have the disease at the beginning of the week and 1200 have it at the end of the week. How many days does it take for 80% of the population to become infected?",
         "choices": ["15 days", "20 days", "18 days", "23 days"],
         "answer": "15 days"
       },
