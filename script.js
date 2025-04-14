@@ -535,7 +535,7 @@ const categories = {
             "y” - xyy” + y’ = 0",
             "(y’)^3 + (y”)^2 + xy = 0"
         ],
-        "answer": "(y’)^3 - xy” + y’ = 0"
+        "answer": "xy” - (y’)^3 - y’ = 0"
     },
     {
         "question": "What is the centroid of a semi-circular area of radius R?",
