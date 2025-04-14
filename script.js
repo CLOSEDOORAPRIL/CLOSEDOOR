@@ -308,7 +308,7 @@ const categories = {
         "answer": "4913/729"
       },
       {
-        "question": "What is the probability that at least one student gets negative results, given all combinations are equally likely?",
+        "question": "Three randomly chosen senior high school students were administered a drug test. Each student was evaluated as positive to the drug test (P) or negative to the drug test (N). Assume the possible combinations of the three student Drug test evaluations as PPP, PPN, PNP, NPP, PNN, NPN,NNP, NNN. Assuming each possible combination is equally likely. What is the probability that at least one student gets negative results?",
         "choices": ["4/8", "2/7", "7/8", "3/7"],
         "answer": "7/8"
       },
@@ -378,7 +378,7 @@ const categories = {
         "answer": "16.6m"
       },
       {
-        "question": "What is the probability that all three students get positive results in a drug test with all outcomes equally likely?",
+        "question": "Three randomly chosen senior hig school students were administered a drug test. Each student was evaluated as positive to the drug test (P) or negative to the drug test (N). Assume the possible combinations of the three student Drug test evaluations as PPP, PPN, PNP, NPP, PNN, NPN, NNP, NNN. Assuming each possible combination is equally likely, what is the probability that all three students get positive results?",
         "choices": ["⅛", "⅞", "⅓", "⅔"],
         "answer": "⅛"
       },
