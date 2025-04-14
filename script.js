@@ -263,7 +263,7 @@ const categories = {
         "answer": "80"
       },
       {
-        "question": "Carbon-14 has a half-life of 5600 years. What fraction remains after 10,000 years?",
+        "question": "Carbon - 14 is a radioactive isotope of carbon that has a half life of 5600 years, it is used extensively in dating organic material that is tens of thousands of years old. What fraction of the original amount of Carbon - 14 in a sample would be present after 10,000 years?",
         "choices": ["30%", "60%", "50%", "25%"],
         "answer": "30%"
       },
