@@ -1126,7 +1126,7 @@ function loadQuestion() {
     }
 
     const currentQuestion = questionPool[currentQuestionIndex];
-    questionElement.textContent = currentQuestion.question;
+    questionElement.innerHTML = currentQuestion.question.replace(/\n/g, "<br>");
     choicesContainer.innerHTML = "";
 
     currentQuestion.choices.forEach(choice => {
