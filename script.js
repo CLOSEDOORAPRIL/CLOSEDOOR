@@ -2092,7 +2092,7 @@ const categories = {
       "Change in cross-sectional area to original cross-sectional",
       "Any of the above"
   ],
-  "answer": "Change in length to original Length"
+  "answer": "Any of the above"
 },
 {
   "question": "Who/What determines priority of projects?",
