@@ -1412,7 +1412,7 @@ const categories = {
 {
   "question": "Each piston of a certain car engine weighs 2lbs and has a “stroke” (total travel distance) of 4 inches. When the engine is operating at 3000 rpm, find its maximum acceleration?",
   "choices": ["1.65 x 10^4 fps^2", "1.56 x 10^4 fps^2", "2.56 x 10^3 fps^2", "2.65 x 10^3 fps^2"],
-  "answer": "2.65 x 10^3 fps^2"
+  "answer": "1.56 x 10^4 fps^2"
 },
 {
   "question": "What is NOT a factor to be taken into consideration when selecting an organizational structure for managing projects?",
