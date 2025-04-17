@@ -2867,7 +2867,7 @@ const categories = {
     {
         "question": "The characteristics impedance of a loss-less overhead line has a value of",
         "choices": ["400 to 600 ohms", "40 to 60 ohms", "100 to 200 ohms", "30 to 300 ohms"],
-        "answer": "30 to 300 ohms"
+        "answer": "400 to 600 ohms"
     },
     {
         "question": "What is the Nyquist stability criterion for a control system open-loop transfer function?",
