@@ -888,7 +888,7 @@ const categories = {
         "answer": "4.64 km, 4.54 km"
     },
     {
-        "question": "If z1 = 1 - i, z2 = -2 + 4i, z3 = √3 - 2i, evaluate Re{2z1³ + 3z2² - 5z3³}.",
+        "question": "If z1 = 1 - i, z2 = -2 + 4i, z3 = √3 - 2i, evaluate Re{2z1³ + 3z2² - 5z3²}.",
         "choices": ["35", "35i", "-35", "-35i"],
         "answer": "-35"
     },
