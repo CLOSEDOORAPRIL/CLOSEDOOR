@@ -3473,7 +3473,90 @@ const categories = {
 	  
 ],
 
+    "PERA PERA": [  
 
+  {
+        "question": "OVER THE LAST 10 YEARS, THE AVERAGE RATE OF INFLATION HAS BEEN 1.61%. What is the purchasing power of a peso today in terms of what a peso could purchase in 2012?",
+        "choices": ["0.85", "1.18", "0.58", "1.81"],
+        "answer": "0.85"
+    },
+    {
+        "question": "Pedro won php 10,000,000 in the lottery, unfortunately, the lottery commission will not pay Kiko the entire amount now. Instead, they will pay Kiko php 500,000 each year for the next 20 years. Starting at the end of the first year. What is the present worth of Pedro’s winning? Assume a nominal annual interest rate of 10%",
+        "choices": ["3,547,318", "4,258,782", "5,000,000", "667,769"],
+        "answer": "4,258,782"
+    },
+    {
+        "question": "A man invests 20,000 now for the college education of his 2 years old son. If the fund earns 14% effective interest, how much will the son get each year starting his 18th to the 22nd birthday?",
+        "choices": ["41,583.28", "43,185.82", "45,183.28", "48,135.82"],
+        "answer": "41,583.28"
+    },
+    {
+        "question": "Consider a project that involves the investment of 100,000 now and 100,000 at the end of the year 1. Revenues of 150,000 will be generated at the end years 1 and 2. What is the MOST nearly the present value of his project if the effective annual interest rate is 10%?",
+        "choices": ["58,400", "50,400", "69,500", "77,500"],
+        "answer": "69,500"
+    },
+    {
+        "question": "Pedro will inherit 500,000 in three years and has a savings account that pays 6% per year, compounded annually. What is the present worth of Pedro’s inheritance?",
+        "choices": ["413,924.55", "425,806.83", "419,809.64", "431,942.55"],
+        "answer": "419,809.64"
+    },
+    {
+        "question": "The general manager of the distribution utility wishes to give each of the 50 employees a holiday bonus. Calculate the amount needed to invest monthly for a year at 12% nominal monthly, so that each employee will receive a 10,000 bonus.",
+        "choices": ["39,424.39", "39,241.97", "39,607.50", "39,791.28"],
+        "answer": "39,424.39"
+    },
+    {
+        "question": "A businessman invests in a medium scale business which costs him 100,000.00. The net annual return is estimated at 30,000 for each of the next 10 years. What is the benefit cost ratio if the annual rate of interest is 20%?",
+        "choices": ["1.16", "0.88", "1.26", "1.06"],
+        "answer": "1.26"
+    },
+    {
+        "question": "A public works project has an initial cost of 1,000,000 benefits with a present worth at 1,500,000 and disadvantages with a present worth 300,000 what is the benefit cost ratio?",
+        "choices": ["7,121.42", "6,078.57", "6,513.12", "6,089.12"],
+        "answer": "6,089.12"
+    },
+    {
+        "question": "A small food control dam can be constructed for a cost of 3 Million. The annual maintenance cost is expected to be 10,000 per year and damage due to flooding will be reduced from 300,000 per year to 100,000 per year. If the dam is expected to be permanent, the benefit to cost ratio at an interest rate of 6% per year is?",
+        "choices": ["1.02", "1.12", "1.05", "1.15"],
+        "answer": "1.05"
+    },
+    {
+        "question": "You deposit 1000 into a 9% account today. At the end of two years, you will deposit another 3000. In five years, you plan a 4000 purchase. How much is left in the account one year after the purchase?",
+        "choices": ["925", "1424", "1552", "1691"],
+        "answer": "1552"
+    },
+    {
+        "question": "What is the capitalized cost of a machine with an initial cost of 250,000.00, a maintenance cost of 10,000.00 per year, and an infinite life? The effective annual interest rate is 10%",
+        "choices": ["260,000.00", "350,000.00", "250,000.00", "100,000.00"],
+        "answer": "350,000.00"
+    },
+    {
+        "question": "How much should be put in an investment with 14% effective annual rate today to have P12,000 in five years?",
+        "choices": ["6,713.35", "5,831.63", "6,232.42", "5,966.18"],
+        "answer": "6,232.42"
+    },
+    {
+        "question": "You are thinking about retirement and you are considering investment money each month so you will have P 1,000,000 in 30 years. If the nominal annual interest rate is 8% and the interest is compounded monthly, what is the amount of monthly investment?",
+        "choices": ["Php 780.95", "Php 670.96", "Php 680.80", "Php 750.89"],
+        "answer": "Php 670.96"
+    },
+    {
+        "question": "Find the amount of money you have to deposit in order to accumulate P1,500 per quarter for 10 years with an interest rate of 12% compounded quarterly.",
+        "choices": ["P4,958.71", "P4,598.71", "P34,672.16", "P36,472.16"],
+        "answer": "P34,672.16"
+    },
+    {
+        "question": "If Php 25,000 is deposited now into a savings account that earns 6% per year, what uniform annual amount could be withdrawn at the end of each year for ten years so that nothing would be left in the account after 10th withdrawal? Troubleshoot 6% - 8%",
+        "choices": ["Php 3725.74", "Php 3570.47", "Php 3968.95", "Php 4326.78"],
+        "answer": "Php 3725.74"
+    },
+    {
+        "question": "How much should be put in an investment with 14% effective annual rate today to have P12000 in five years?",
+        "choices": ["P6,713.35", "P5,831.63", "P6,232.42", "P5,966.18"],
+        "answer": "P6,232.42"
+    }
+
+],
 
 
 
