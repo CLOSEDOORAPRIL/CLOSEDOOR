@@ -3473,7 +3473,7 @@ const categories = {
 	  
 ],
 
-    "PERA PERA": [  
+    "PERAPERA": [  
 
   {
         "question": "OVER THE LAST 10 YEARS, THE AVERAGE RATE OF INFLATION HAS BEEN 1.61%. What is the purchasing power of a peso today in terms of what a peso could purchase in 2012?",
