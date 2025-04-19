@@ -2072,7 +2072,7 @@ const categories = {
 {
   "question": "A computer or software on the network that supplies the network with data and storage is called____",
   "choices": ["Mainframe Computer", "Workstation", "Server", "Host computer"],
-  "answer": "Host computer"
+  "answer": "Server"
 },
 {
   "question": "Which of the following is an alkaline earth metal?",
