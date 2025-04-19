@@ -1038,7 +1038,7 @@ const categories = {
         "answer": "A Helix"
     },
     {
-        "question": "Im (1+i)^(1+1)",
+        "question": "Im (1+i)^(1+i)",
         "choices": ["0.538", "0.274", "-3.102", "-1.537"],
         "answer": "0.538"
     },
